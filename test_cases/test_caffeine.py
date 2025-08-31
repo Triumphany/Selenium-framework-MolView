@@ -10,7 +10,7 @@ class TestCaffeine:
 
         page.click_view()
         page.open_infocard()
-
+ 
         common = page.get_common_name()
         iupac = page.get_iupac_name()
         smiles = page.get_smiles()

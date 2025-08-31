@@ -1,36 +1,57 @@
 import pytest
 from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
 from pages.search_molecule import MolViewPage
+import os, sys
 
-@pytest.fixture(scope="class")
-def setup(request):
-    options = Options()
-    options.add_experimental_option("excludeSwitches", ["enable-logging"])
-    options.add_argument("--log-level=3")
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-    serv_obj = Service("C:\\drivers\\chromedriver-win64\\chromedriver.exe")
-    driver = webdriver.Chrome(service=serv_obj, options=options)
-    driver.get("https://app.molview.com/")
-    driver.maximize_window()
+SCREENSHOT_DIR = os.path.join(os.path.dirname(__file__), "..", "screenshots", "search")
+os.makedirs(SCREENSHOT_DIR, exist_ok=True)  # Create folder if not exists
 
-    request.cls.driver = driver
-    yield
-    driver.quit()
 
 @pytest.mark.usefixtures("setup")
 class TestCaffeine:
-    def test_caffeine_infocard(self):
+    def test_search_caffeine_ENTERkeys(self):
         page = MolViewPage(self.driver)
 
-        page.search_molecule("Caffeine")
+        page.search_molecule_enterkey("Acetylene")
         page.open_infocard()
+        self.driver.save_screenshot(os.path.join(SCREENSHOT_DIR, "ENTERkeys.png"))
 
         common = page.get_common_name()
         iupac = page.get_iupac_name()
         smiles = page.get_smiles()
 
-        assert common == "Caffeine", f"Expected 'Caffeine', got {common}"
-        assert iupac == "1,3,7-trimethylpurine-2,6-dione", f"Unexpected IUPAC: {iupac}"
-        assert smiles == "CN1C=NC2=C1C(=O)N(C(=O)N2C)C", f"Unexpected SMILES: {smiles}"
+        assert common == "Acetylene"
+        assert iupac == "acetylene"
+        assert smiles == "C#C"
+
+    def test_search_caffeine_SEARCHclick(self):
+        page = MolViewPage(self.driver)
+
+        page.search_molecule_click_button("Acetylene")
+        page.open_infocard()
+        self.driver.save_screenshot(os.path.join(SCREENSHOT_DIR, "CLICKsearch.png"))
+
+        common = page.get_common_name()
+        iupac = page.get_iupac_name()
+        smiles = page.get_smiles()
+
+        assert common == "Acetylene"
+        assert iupac == "acetylene"
+        assert smiles == "C#C"
+
+    def test_search_caffeine_ENTERkeys_smiles(self):
+        page = MolViewPage(self.driver)
+
+        page.search_molecule_enterkey("C#C")
+        page.open_infocard()
+        self.driver.save_screenshot(os.path.join(SCREENSHOT_DIR, "smile_search.png"))
+
+        common = page.get_common_name()
+        iupac = page.get_iupac_name()
+        smiles = page.get_smiles()
+
+        assert common == "Acetylene"
+        assert iupac == "acetylene"
+        assert smiles == "C#C"

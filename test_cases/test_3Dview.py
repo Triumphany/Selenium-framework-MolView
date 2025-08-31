@@ -2,10 +2,9 @@ import pytest
 from pages.threeview import MolViewPage
 import os, sys
 
-# Add project root to sys.path (so "pages" is found)
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-# Define screenshot folder path
+
 SCREENSHOT_DIR = os.path.join(os.path.dirname(__file__), "..", "screenshots", "threeDview")
 os.makedirs(SCREENSHOT_DIR, exist_ok=True)  # Create folder if not exists
 

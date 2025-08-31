@@ -13,22 +13,6 @@ SCREENSHOT_DIR = os.path.join(os.path.dirname(__file__), "..", "screenshots", "t
 os.makedirs(SCREENSHOT_DIR, exist_ok=True)
 
 
-@pytest.fixture(scope="class")
-def setup(request):
-    options = Options()
-    options.add_experimental_option("excludeSwitches", ["enable-logging"])
-    options.add_argument("--log-level=3")
-
-    serv_obj = Service("C:\\drivers\\chromedriver-win64\\chromedriver.exe")
-    driver = webdriver.Chrome(service=serv_obj, options=options)
-    driver.get("https://app.molview.com/")
-    driver.maximize_window()
-
-    request.cls.driver = driver
-    yield
-    driver.quit()
-
-
 @pytest.mark.usefixtures("setup")
 class TestTools:
     def test_all_tools(self):

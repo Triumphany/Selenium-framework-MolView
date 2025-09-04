@@ -3,13 +3,6 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 
 class MolViewPage:
-    ELEMENTS = [
-        "H", "He",
-        "Li", "Be", "B", "C", "N", "O", "F", "Ne",
-        "Na", "Mg", "Al", "Si", "P", "S", "Cl", "Ar",
-        "K", "Ca", "Sc", "Ti", "V", "Cr", "Mn", "Fe", "Co", "Ni", "Cu", "Zn"
-    ]
-
     def __init__(self, driver):
         self.driver = driver
         self.wait = WebDriverWait(driver, 15)
@@ -31,11 +24,8 @@ class MolViewPage:
         )
         button.click()
 
-    def select_element(self, symbol: str):
-        element_xpath = (
-            By.XPATH,
-            f"//span[contains(@class, '_symbol_19stg_') and text()='{symbol}']"
-        )
+    def select_element(self, symbol):
+        element_xpath = (By.XPATH, f"//span[contains(@class, '_symbol_19stg_') and text()='{symbol}']")
         element = self.wait.until(EC.element_to_be_clickable(element_xpath))
         element.click()
 

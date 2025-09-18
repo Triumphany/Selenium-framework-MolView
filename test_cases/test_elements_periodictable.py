@@ -1,7 +1,7 @@
 import pytest
 import os
 from pages.periodictable import MolViewPage
-from utils.logger import logger  
+from utils.logger import get_logger  
 
 # Define screenshot folder
 SCREENSHOT_DIR = os.path.join(
@@ -14,6 +14,7 @@ os.makedirs(SCREENSHOT_DIR, exist_ok=True)
 class TestPeriodicTable:
     def test_all_elements_with_screenshots(self):
         page = MolViewPage(self.driver)
+        self.logger = get_logger(__class__.__name__)
         try:
             page.open_periodic_table()
             ELEMENTS = [
@@ -29,13 +30,11 @@ class TestPeriodicTable:
             ]
 
             for element in ELEMENTS:
-                logger.info(f"Testing element: {element}")
                 page.select_element(element)
                 screenshot_path = os.path.join(SCREENSHOT_DIR, f"{element}.png")
                 self.driver.save_screenshot(screenshot_path)
-                logger.info(f"Screenshot saved: {screenshot_path}")
                 page.open_periodic_table()
 
         except Exception as e:
-            logger.error(f"Could not click {element}: {e}", exc_info=True)
+            self.logger.error(f"Could not click {element}: {e}", exc_info=True)
             raise

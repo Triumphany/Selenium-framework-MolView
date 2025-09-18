@@ -2,11 +2,13 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import os
+from utils.logger import get_logger
 
 class MolViewToolsPage:
     def __init__(self, driver):
         self.driver = driver
         self.wait = WebDriverWait(driver, 15)
+        self.logger = get_logger(__class__.__name__)
 
     # Locators
     move_XPATH = (By.XPATH, "//div[@title='Move']")

@@ -1,19 +1,22 @@
 import logging
 import os
 
-# Create logs directory if not exists
-LOG_DIR = os.path.join(os.path.dirname(__file__), "..", "reports", "log")
-os.makedirs(LOG_DIR, exist_ok=True)
+def get_logger(name=__name__):
+    # Ensure logs directory exists
+    reports_dir = "reports"
+    os.makedirs(reports_dir, exist_ok=True)
 
-LOG_FILE = os.path.join(LOG_DIR, "test.log")  # ✅ fixed
+    logger = logging.getLogger(name)
+    logger.setLevel(logging.INFO)
 
-logging.basicConfig(
-    level=logging.INFO,
-    format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
-    handlers=[
-        logging.FileHandler(LOG_FILE, mode="a", encoding="utf-8"),
-        logging.StreamHandler()
-    ]
-)
+    # Prevent duplicate handlers if called multiple times
+    if not logger.handlers:
+        file_handler = logging.FileHandler("reports/log/test_log.log")
+        formatter = logging.Formatter(
+            "%(asctime)s - %(levelname)s - %(name)s - %(message)s",
+            datefmt="%Y-%m-%d %H:%M:%S"
+        )
+        file_handler.setFormatter(formatter)
+        logger.addHandler(file_handler)
 
-logger = logging.getLogger("MolViewLogger")
+    return logger

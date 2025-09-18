@@ -3,7 +3,11 @@ import pytest
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
-from pages.threeview import MolViewPage
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.common.exceptions import TimeoutException
+
 
 @pytest.fixture(scope="class")
 def setup(request):
@@ -16,10 +20,14 @@ def setup(request):
     driver.get("https://app.molview.com/")
     driver.maximize_window()
 
-    page = MolViewPage(driver)
+    # handle popup if present
     try:
-        page.popup()
-    except:
+        popup_button = WebDriverWait(driver, 5).until(
+            EC.element_to_be_clickable((By.XPATH, "//dialog[@open]//button"))
+        )
+        popup_button.click()
+        print("Popup closed")
+    except TimeoutException:
         print("No popup found")
 
     request.cls.driver = driver

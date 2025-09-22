@@ -43,6 +43,6 @@ class MolViewToolsPage:
 
     # Generic click method
     def click_tool(self, locator):
-        button = self.wait.until(EC.element_to_be_clickable(locator))
+        button = self.wait.until(EC.element_to_be_clickable((By.XPATH, f"//div[@title='{locator}']")))
         button.click()
         return button

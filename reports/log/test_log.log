@@ -1,0 +1,482 @@
+2025-09-23 20:56:32 - INFO - MolViewPage - View : clicked
+2025-09-23 20:56:32 - INFO - MolViewPage - Infocard : clicked
+2025-09-23 20:58:07 - INFO - MolViewPage - Ball Stick : clicked
+2025-09-23 20:58:07 - INFO - MolViewPage - Ball Stick : selected
+2025-09-23 20:58:08 - INFO - MolViewPage - Ball Stick : clicked
+2025-09-23 20:58:11 - INFO - MolViewPage - Resonance : selected
+2025-09-23 20:58:15 - INFO - MolViewPage - Licorice : selected
+2025-09-23 20:58:15 - INFO - MolViewPage - Spacefill : selected
+2025-09-23 21:01:00 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:00 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:00 - INFO - MolViewPage - Selecting element: H
+2025-09-23 21:01:01 - INFO - MolViewPage - Element H selected successfully.
+2025-09-23 21:01:01 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:01 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:01 - INFO - MolViewPage - Selecting element: He
+2025-09-23 21:01:01 - INFO - MolViewPage - Element He selected successfully.
+2025-09-23 21:01:02 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:02 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:02 - INFO - MolViewPage - Selecting element: Li
+2025-09-23 21:01:02 - INFO - MolViewPage - Element Li selected successfully.
+2025-09-23 21:01:02 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:03 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:03 - INFO - MolViewPage - Selecting element: Be
+2025-09-23 21:01:03 - INFO - MolViewPage - Element Be selected successfully.
+2025-09-23 21:01:06 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:06 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:06 - INFO - MolViewPage - Selecting element: B
+2025-09-23 21:01:07 - INFO - MolViewPage - Element B selected successfully.
+2025-09-23 21:01:07 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:07 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:07 - INFO - MolViewPage - Selecting element: C
+2025-09-23 21:01:07 - INFO - MolViewPage - Element C selected successfully.
+2025-09-23 21:01:07 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:08 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:08 - INFO - MolViewPage - Selecting element: N
+2025-09-23 21:01:08 - INFO - MolViewPage - Element N selected successfully.
+2025-09-23 21:01:08 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:08 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:08 - INFO - MolViewPage - Selecting element: O
+2025-09-23 21:01:08 - INFO - MolViewPage - Element O selected successfully.
+2025-09-23 21:01:09 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:09 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:09 - INFO - MolViewPage - Selecting element: F
+2025-09-23 21:01:09 - INFO - MolViewPage - Element F selected successfully.
+2025-09-23 21:01:09 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:10 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:10 - INFO - MolViewPage - Selecting element: Ne
+2025-09-23 21:01:10 - INFO - MolViewPage - Element Ne selected successfully.
+2025-09-23 21:01:10 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:10 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:10 - INFO - MolViewPage - Selecting element: Na
+2025-09-23 21:01:10 - INFO - MolViewPage - Element Na selected successfully.
+2025-09-23 21:01:11 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:11 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:11 - INFO - MolViewPage - Selecting element: Mg
+2025-09-23 21:01:11 - INFO - MolViewPage - Element Mg selected successfully.
+2025-09-23 21:01:11 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:12 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:12 - INFO - MolViewPage - Selecting element: Al
+2025-09-23 21:01:12 - INFO - MolViewPage - Element Al selected successfully.
+2025-09-23 21:01:12 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:12 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:12 - INFO - MolViewPage - Selecting element: Si
+2025-09-23 21:01:12 - INFO - MolViewPage - Element Si selected successfully.
+2025-09-23 21:01:12 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:13 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:13 - INFO - MolViewPage - Selecting element: P
+2025-09-23 21:01:13 - INFO - MolViewPage - Element P selected successfully.
+2025-09-23 21:01:13 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:13 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:13 - INFO - MolViewPage - Selecting element: S
+2025-09-23 21:01:14 - INFO - MolViewPage - Element S selected successfully.
+2025-09-23 21:01:14 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:14 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:14 - INFO - MolViewPage - Selecting element: Cl
+2025-09-23 21:01:14 - INFO - MolViewPage - Element Cl selected successfully.
+2025-09-23 21:01:15 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:15 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:15 - INFO - MolViewPage - Selecting element: Ar
+2025-09-23 21:01:15 - INFO - MolViewPage - Element Ar selected successfully.
+2025-09-23 21:01:15 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:15 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:15 - INFO - MolViewPage - Selecting element: K
+2025-09-23 21:01:16 - INFO - MolViewPage - Element K selected successfully.
+2025-09-23 21:01:16 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:16 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:16 - INFO - MolViewPage - Selecting element: Ca
+2025-09-23 21:01:16 - INFO - MolViewPage - Element Ca selected successfully.
+2025-09-23 21:01:17 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:17 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:17 - INFO - MolViewPage - Selecting element: Sc
+2025-09-23 21:01:17 - INFO - MolViewPage - Element Sc selected successfully.
+2025-09-23 21:01:17 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:18 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:18 - INFO - MolViewPage - Selecting element: Ti
+2025-09-23 21:01:18 - INFO - MolViewPage - Element Ti selected successfully.
+2025-09-23 21:01:18 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:18 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:18 - INFO - MolViewPage - Selecting element: V
+2025-09-23 21:01:18 - INFO - MolViewPage - Element V selected successfully.
+2025-09-23 21:01:19 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:19 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:19 - INFO - MolViewPage - Selecting element: Cr
+2025-09-23 21:01:19 - INFO - MolViewPage - Element Cr selected successfully.
+2025-09-23 21:01:19 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:20 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:20 - INFO - MolViewPage - Selecting element: Mn
+2025-09-23 21:01:20 - INFO - MolViewPage - Element Mn selected successfully.
+2025-09-23 21:01:20 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:20 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:20 - INFO - MolViewPage - Selecting element: Fe
+2025-09-23 21:01:20 - INFO - MolViewPage - Element Fe selected successfully.
+2025-09-23 21:01:21 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:21 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:21 - INFO - MolViewPage - Selecting element: Co
+2025-09-23 21:01:21 - INFO - MolViewPage - Element Co selected successfully.
+2025-09-23 21:01:21 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:21 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:21 - INFO - MolViewPage - Selecting element: Ni
+2025-09-23 21:01:21 - INFO - MolViewPage - Element Ni selected successfully.
+2025-09-23 21:01:22 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:22 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:22 - INFO - MolViewPage - Selecting element: Cu
+2025-09-23 21:01:22 - INFO - MolViewPage - Element Cu selected successfully.
+2025-09-23 21:01:22 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:22 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:22 - INFO - MolViewPage - Selecting element: Zn
+2025-09-23 21:01:23 - INFO - MolViewPage - Element Zn selected successfully.
+2025-09-23 21:01:23 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:23 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:23 - INFO - MolViewPage - Selecting element: Ga
+2025-09-23 21:01:23 - INFO - MolViewPage - Element Ga selected successfully.
+2025-09-23 21:01:23 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:24 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:24 - INFO - MolViewPage - Selecting element: Ge
+2025-09-23 21:01:24 - INFO - MolViewPage - Element Ge selected successfully.
+2025-09-23 21:01:24 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:24 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:24 - INFO - MolViewPage - Selecting element: As
+2025-09-23 21:01:24 - INFO - MolViewPage - Element As selected successfully.
+2025-09-23 21:01:25 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:25 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:25 - INFO - MolViewPage - Selecting element: Se
+2025-09-23 21:01:25 - INFO - MolViewPage - Element Se selected successfully.
+2025-09-23 21:01:25 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:25 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:25 - INFO - MolViewPage - Selecting element: Br
+2025-09-23 21:01:25 - INFO - MolViewPage - Element Br selected successfully.
+2025-09-23 21:01:26 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:26 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:26 - INFO - MolViewPage - Selecting element: Kr
+2025-09-23 21:01:26 - INFO - MolViewPage - Element Kr selected successfully.
+2025-09-23 21:01:26 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:26 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:26 - INFO - MolViewPage - Selecting element: Rb
+2025-09-23 21:01:27 - INFO - MolViewPage - Element Rb selected successfully.
+2025-09-23 21:01:27 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:27 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:27 - INFO - MolViewPage - Selecting element: Sr
+2025-09-23 21:01:27 - INFO - MolViewPage - Element Sr selected successfully.
+2025-09-23 21:01:27 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:28 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:28 - INFO - MolViewPage - Selecting element: Y
+2025-09-23 21:01:28 - INFO - MolViewPage - Element Y selected successfully.
+2025-09-23 21:01:28 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:28 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:28 - INFO - MolViewPage - Selecting element: Zr
+2025-09-23 21:01:28 - INFO - MolViewPage - Element Zr selected successfully.
+2025-09-23 21:01:29 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:29 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:29 - INFO - MolViewPage - Selecting element: Nb
+2025-09-23 21:01:29 - INFO - MolViewPage - Element Nb selected successfully.
+2025-09-23 21:01:29 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:29 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:29 - INFO - MolViewPage - Selecting element: Mo
+2025-09-23 21:01:30 - INFO - MolViewPage - Element Mo selected successfully.
+2025-09-23 21:01:30 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:30 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:30 - INFO - MolViewPage - Selecting element: Tc
+2025-09-23 21:01:30 - INFO - MolViewPage - Element Tc selected successfully.
+2025-09-23 21:01:30 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:30 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:30 - INFO - MolViewPage - Selecting element: Ru
+2025-09-23 21:01:31 - INFO - MolViewPage - Element Ru selected successfully.
+2025-09-23 21:01:31 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:31 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:31 - INFO - MolViewPage - Selecting element: Rh
+2025-09-23 21:01:31 - INFO - MolViewPage - Element Rh selected successfully.
+2025-09-23 21:01:31 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:32 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:32 - INFO - MolViewPage - Selecting element: Pd
+2025-09-23 21:01:32 - INFO - MolViewPage - Element Pd selected successfully.
+2025-09-23 21:01:32 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:32 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:32 - INFO - MolViewPage - Selecting element: Ag
+2025-09-23 21:01:32 - INFO - MolViewPage - Element Ag selected successfully.
+2025-09-23 21:01:33 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:33 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:33 - INFO - MolViewPage - Selecting element: Cd
+2025-09-23 21:01:33 - INFO - MolViewPage - Element Cd selected successfully.
+2025-09-23 21:01:33 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:33 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:33 - INFO - MolViewPage - Selecting element: In
+2025-09-23 21:01:34 - INFO - MolViewPage - Element In selected successfully.
+2025-09-23 21:01:34 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:34 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:34 - INFO - MolViewPage - Selecting element: Sn
+2025-09-23 21:01:34 - INFO - MolViewPage - Element Sn selected successfully.
+2025-09-23 21:01:34 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:35 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:35 - INFO - MolViewPage - Selecting element: Sb
+2025-09-23 21:01:35 - INFO - MolViewPage - Element Sb selected successfully.
+2025-09-23 21:01:35 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:35 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:35 - INFO - MolViewPage - Selecting element: Te
+2025-09-23 21:01:35 - INFO - MolViewPage - Element Te selected successfully.
+2025-09-23 21:01:36 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:36 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:36 - INFO - MolViewPage - Selecting element: I
+2025-09-23 21:01:36 - INFO - MolViewPage - Element I selected successfully.
+2025-09-23 21:01:36 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:36 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:36 - INFO - MolViewPage - Selecting element: Xe
+2025-09-23 21:01:37 - INFO - MolViewPage - Element Xe selected successfully.
+2025-09-23 21:01:37 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:37 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:37 - INFO - MolViewPage - Selecting element: Cs
+2025-09-23 21:01:37 - INFO - MolViewPage - Element Cs selected successfully.
+2025-09-23 21:01:37 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:37 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:37 - INFO - MolViewPage - Selecting element: Ba
+2025-09-23 21:01:38 - INFO - MolViewPage - Element Ba selected successfully.
+2025-09-23 21:01:38 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:38 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:38 - INFO - MolViewPage - Selecting element: La
+2025-09-23 21:01:38 - INFO - MolViewPage - Element La selected successfully.
+2025-09-23 21:01:38 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:39 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:39 - INFO - MolViewPage - Selecting element: Ce
+2025-09-23 21:01:39 - INFO - MolViewPage - Element Ce selected successfully.
+2025-09-23 21:01:39 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:39 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:39 - INFO - MolViewPage - Selecting element: Pr
+2025-09-23 21:01:39 - INFO - MolViewPage - Element Pr selected successfully.
+2025-09-23 21:01:40 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:40 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:40 - INFO - MolViewPage - Selecting element: Nd
+2025-09-23 21:01:40 - INFO - MolViewPage - Element Nd selected successfully.
+2025-09-23 21:01:40 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:40 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:40 - INFO - MolViewPage - Selecting element: Pm
+2025-09-23 21:01:40 - INFO - MolViewPage - Element Pm selected successfully.
+2025-09-23 21:01:41 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:41 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:41 - INFO - MolViewPage - Selecting element: Sm
+2025-09-23 21:01:41 - INFO - MolViewPage - Element Sm selected successfully.
+2025-09-23 21:01:41 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:41 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:41 - INFO - MolViewPage - Selecting element: Eu
+2025-09-23 21:01:42 - INFO - MolViewPage - Element Eu selected successfully.
+2025-09-23 21:01:42 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:42 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:42 - INFO - MolViewPage - Selecting element: Gd
+2025-09-23 21:01:42 - INFO - MolViewPage - Element Gd selected successfully.
+2025-09-23 21:01:42 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:43 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:43 - INFO - MolViewPage - Selecting element: Tb
+2025-09-23 21:01:43 - INFO - MolViewPage - Element Tb selected successfully.
+2025-09-23 21:01:43 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:43 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:43 - INFO - MolViewPage - Selecting element: Dy
+2025-09-23 21:01:43 - INFO - MolViewPage - Element Dy selected successfully.
+2025-09-23 21:01:44 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:44 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:44 - INFO - MolViewPage - Selecting element: Ho
+2025-09-23 21:01:44 - INFO - MolViewPage - Element Ho selected successfully.
+2025-09-23 21:01:44 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:44 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:44 - INFO - MolViewPage - Selecting element: Er
+2025-09-23 21:01:45 - INFO - MolViewPage - Element Er selected successfully.
+2025-09-23 21:01:45 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:45 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:45 - INFO - MolViewPage - Selecting element: Tm
+2025-09-23 21:01:45 - INFO - MolViewPage - Element Tm selected successfully.
+2025-09-23 21:01:45 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:46 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:46 - INFO - MolViewPage - Selecting element: Yb
+2025-09-23 21:01:46 - INFO - MolViewPage - Element Yb selected successfully.
+2025-09-23 21:01:46 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:46 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:46 - INFO - MolViewPage - Selecting element: Lu
+2025-09-23 21:01:46 - INFO - MolViewPage - Element Lu selected successfully.
+2025-09-23 21:01:47 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:47 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:47 - INFO - MolViewPage - Selecting element: Hf
+2025-09-23 21:01:47 - INFO - MolViewPage - Element Hf selected successfully.
+2025-09-23 21:01:47 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:47 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:47 - INFO - MolViewPage - Selecting element: Ta
+2025-09-23 21:01:48 - INFO - MolViewPage - Element Ta selected successfully.
+2025-09-23 21:01:48 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:48 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:48 - INFO - MolViewPage - Selecting element: W
+2025-09-23 21:01:48 - INFO - MolViewPage - Element W selected successfully.
+2025-09-23 21:01:48 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:49 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:49 - INFO - MolViewPage - Selecting element: Re
+2025-09-23 21:01:49 - INFO - MolViewPage - Element Re selected successfully.
+2025-09-23 21:01:49 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:49 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:49 - INFO - MolViewPage - Selecting element: Os
+2025-09-23 21:01:49 - INFO - MolViewPage - Element Os selected successfully.
+2025-09-23 21:01:49 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:50 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:50 - INFO - MolViewPage - Selecting element: Ir
+2025-09-23 21:01:50 - INFO - MolViewPage - Element Ir selected successfully.
+2025-09-23 21:01:50 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:50 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:50 - INFO - MolViewPage - Selecting element: Pt
+2025-09-23 21:01:50 - INFO - MolViewPage - Element Pt selected successfully.
+2025-09-23 21:01:51 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:51 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:51 - INFO - MolViewPage - Selecting element: Au
+2025-09-23 21:01:51 - INFO - MolViewPage - Element Au selected successfully.
+2025-09-23 21:01:51 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:51 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:51 - INFO - MolViewPage - Selecting element: Hg
+2025-09-23 21:01:52 - INFO - MolViewPage - Element Hg selected successfully.
+2025-09-23 21:01:52 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:52 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:52 - INFO - MolViewPage - Selecting element: Tl
+2025-09-23 21:01:52 - INFO - MolViewPage - Element Tl selected successfully.
+2025-09-23 21:01:52 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:53 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:53 - INFO - MolViewPage - Selecting element: Pb
+2025-09-23 21:01:53 - INFO - MolViewPage - Element Pb selected successfully.
+2025-09-23 21:01:53 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:53 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:53 - INFO - MolViewPage - Selecting element: Bi
+2025-09-23 21:01:53 - INFO - MolViewPage - Element Bi selected successfully.
+2025-09-23 21:01:54 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:54 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:54 - INFO - MolViewPage - Selecting element: Po
+2025-09-23 21:01:54 - INFO - MolViewPage - Element Po selected successfully.
+2025-09-23 21:01:54 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:54 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:54 - INFO - MolViewPage - Selecting element: At
+2025-09-23 21:01:54 - INFO - MolViewPage - Element At selected successfully.
+2025-09-23 21:01:55 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:55 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:55 - INFO - MolViewPage - Selecting element: Rn
+2025-09-23 21:01:55 - INFO - MolViewPage - Element Rn selected successfully.
+2025-09-23 21:01:55 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:55 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:55 - INFO - MolViewPage - Selecting element: Fr
+2025-09-23 21:01:56 - INFO - MolViewPage - Element Fr selected successfully.
+2025-09-23 21:01:56 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:56 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:56 - INFO - MolViewPage - Selecting element: Ra
+2025-09-23 21:01:56 - INFO - MolViewPage - Element Ra selected successfully.
+2025-09-23 21:01:56 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:57 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:57 - INFO - MolViewPage - Selecting element: Ac
+2025-09-23 21:01:57 - INFO - MolViewPage - Element Ac selected successfully.
+2025-09-23 21:01:57 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:57 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:57 - INFO - MolViewPage - Selecting element: Th
+2025-09-23 21:01:57 - INFO - MolViewPage - Element Th selected successfully.
+2025-09-23 21:01:58 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:58 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:58 - INFO - MolViewPage - Selecting element: Pa
+2025-09-23 21:01:58 - INFO - MolViewPage - Element Pa selected successfully.
+2025-09-23 21:01:58 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:58 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:58 - INFO - MolViewPage - Selecting element: U
+2025-09-23 21:01:59 - INFO - MolViewPage - Element U selected successfully.
+2025-09-23 21:01:59 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:59 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:59 - INFO - MolViewPage - Selecting element: Np
+2025-09-23 21:01:59 - INFO - MolViewPage - Element Np selected successfully.
+2025-09-23 21:01:59 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:01:59 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:01:59 - INFO - MolViewPage - Selecting element: Pu
+2025-09-23 21:02:00 - INFO - MolViewPage - Element Pu selected successfully.
+2025-09-23 21:02:00 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:00 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:00 - INFO - MolViewPage - Selecting element: Am
+2025-09-23 21:02:00 - INFO - MolViewPage - Element Am selected successfully.
+2025-09-23 21:02:00 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:01 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:01 - INFO - MolViewPage - Selecting element: Cm
+2025-09-23 21:02:01 - INFO - MolViewPage - Element Cm selected successfully.
+2025-09-23 21:02:01 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:01 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:01 - INFO - MolViewPage - Selecting element: Bk
+2025-09-23 21:02:01 - INFO - MolViewPage - Element Bk selected successfully.
+2025-09-23 21:02:02 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:02 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:02 - INFO - MolViewPage - Selecting element: Cf
+2025-09-23 21:02:02 - INFO - MolViewPage - Element Cf selected successfully.
+2025-09-23 21:02:02 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:02 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:02 - INFO - MolViewPage - Selecting element: Es
+2025-09-23 21:02:02 - INFO - MolViewPage - Element Es selected successfully.
+2025-09-23 21:02:03 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:03 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:03 - INFO - MolViewPage - Selecting element: Fm
+2025-09-23 21:02:03 - INFO - MolViewPage - Element Fm selected successfully.
+2025-09-23 21:02:03 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:04 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:04 - INFO - MolViewPage - Selecting element: Md
+2025-09-23 21:02:04 - INFO - MolViewPage - Element Md selected successfully.
+2025-09-23 21:02:04 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:04 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:04 - INFO - MolViewPage - Selecting element: No
+2025-09-23 21:02:04 - INFO - MolViewPage - Element No selected successfully.
+2025-09-23 21:02:04 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:05 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:05 - INFO - MolViewPage - Selecting element: Lr
+2025-09-23 21:02:05 - INFO - MolViewPage - Element Lr selected successfully.
+2025-09-23 21:02:05 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:05 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:05 - INFO - MolViewPage - Selecting element: Rf
+2025-09-23 21:02:06 - INFO - MolViewPage - Element Rf selected successfully.
+2025-09-23 21:02:06 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:06 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:06 - INFO - MolViewPage - Selecting element: Db
+2025-09-23 21:02:06 - INFO - MolViewPage - Element Db selected successfully.
+2025-09-23 21:02:06 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:06 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:06 - INFO - MolViewPage - Selecting element: Sg
+2025-09-23 21:02:07 - INFO - MolViewPage - Element Sg selected successfully.
+2025-09-23 21:02:07 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:07 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:07 - INFO - MolViewPage - Selecting element: Bh
+2025-09-23 21:02:07 - INFO - MolViewPage - Element Bh selected successfully.
+2025-09-23 21:02:07 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:08 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:08 - INFO - MolViewPage - Selecting element: Hs
+2025-09-23 21:02:08 - INFO - MolViewPage - Element Hs selected successfully.
+2025-09-23 21:02:08 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:08 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:08 - INFO - MolViewPage - Selecting element: Mt
+2025-09-23 21:02:08 - INFO - MolViewPage - Element Mt selected successfully.
+2025-09-23 21:02:09 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:09 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:09 - INFO - MolViewPage - Selecting element: Ds
+2025-09-23 21:02:09 - INFO - MolViewPage - Element Ds selected successfully.
+2025-09-23 21:02:09 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:09 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:09 - INFO - MolViewPage - Selecting element: Rg
+2025-09-23 21:02:10 - INFO - MolViewPage - Element Rg selected successfully.
+2025-09-23 21:02:10 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:10 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:10 - INFO - MolViewPage - Selecting element: Cn
+2025-09-23 21:02:10 - INFO - MolViewPage - Element Cn selected successfully.
+2025-09-23 21:02:10 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:11 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:11 - INFO - MolViewPage - Selecting element: Nh
+2025-09-23 21:02:11 - INFO - MolViewPage - Element Nh selected successfully.
+2025-09-23 21:02:11 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:11 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:11 - INFO - MolViewPage - Selecting element: Fl
+2025-09-23 21:02:11 - INFO - MolViewPage - Element Fl selected successfully.
+2025-09-23 21:02:12 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:12 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:12 - INFO - MolViewPage - Selecting element: Mc
+2025-09-23 21:02:12 - INFO - MolViewPage - Element Mc selected successfully.
+2025-09-23 21:02:12 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:12 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:12 - INFO - MolViewPage - Selecting element: Lv
+2025-09-23 21:02:13 - INFO - MolViewPage - Element Lv selected successfully.
+2025-09-23 21:02:13 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:13 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:13 - INFO - MolViewPage - Selecting element: Ts
+2025-09-23 21:02:13 - INFO - MolViewPage - Element Ts selected successfully.
+2025-09-23 21:02:13 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:14 - INFO - MolViewPage - Periodic table opened.
+2025-09-23 21:02:14 - INFO - MolViewPage - Selecting element: Og
+2025-09-23 21:02:14 - INFO - MolViewPage - Element Og selected successfully.
+2025-09-23 21:02:14 - INFO - MolViewPage - Opening periodic table...
+2025-09-23 21:02:14 - INFO - MolViewPage - Periodic table opened.

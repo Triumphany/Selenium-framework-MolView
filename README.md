@@ -54,6 +54,9 @@ The framework integrates with **Pytest** for test execution and reporting, suppo
 
 ```bash
  Selenium-framewoork-MolView/
+  │── batch_scripts/
+  │   ├── run_all_tests.bat                 # Runs all tests in one command
+  │   ├── run_individual_test.bat           # Single file running all tests
   │── Excel_files/
   │   ├── manual_test.xlsx
   │   ├── TestPlan_Automation.xlsx

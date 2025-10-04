@@ -87,7 +87,7 @@ Clone the repository and install dependencies:
 git clone https://github.com/Triumphany/Selenium-framework-MolView
 
 # Move into the project directory
-cd selenium-automation-PUBCHEM
+cd selenium-automation-MolView
 
 # Install dependencies
 pip install -r requirements.txt
